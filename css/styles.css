@@ -11433,3 +11433,11 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+footer {
+  text-align: center;
+  padding: 10px 10px 50px 10px;
+  width: 100%; 
+  display:block; 
+  bottom: 0;
+}
